@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   국내외 정치 이슈에 대한 분석과 해설, 정치인 인터뷰, 국회 소식 등을 다루며, 누구나 쉽게 이해할 수 있는 콘텐츠를 제공합니다. 함께 논의하고 싶은 정치 이슈가 있다면 언제든지 댓글로 남겨주세요.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alpha-codedraw.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://politics.master-woo.com" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "/assets/images/favicon/favicon.ico" # the favicon for your site
 
 # Yat date format
